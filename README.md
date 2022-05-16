@@ -6,6 +6,7 @@ The following are used to get a better understanding of the data:
 - Spark SQL
 - Pandas
 - Plotly
+
 I used Google Colaboratory for this project.
 
 About the data [from Kaggle]:
